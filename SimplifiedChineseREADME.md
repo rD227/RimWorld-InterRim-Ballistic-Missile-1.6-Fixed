@@ -23,6 +23,9 @@ pip install Pillow
 使用方法
 快速上手
 将 fix_textures.py 脚本放置在模组的根目录（或者 Textures 文件夹）下，然后在该目录下运行命令：
+```powershell
+python fix_textures.py
+```
 
 PowerShell
 python fix_textures.py
