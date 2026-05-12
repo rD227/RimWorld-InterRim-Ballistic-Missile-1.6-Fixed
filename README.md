@@ -2,7 +2,7 @@ How to use:
 ```powershell
 pip install Pillow
 ```
-Or using virtual environment
+Using a Virtual Environment (Recommended):
 ```powershell&&bash
 # 1. create the enviriment
 python -m venv .venv
