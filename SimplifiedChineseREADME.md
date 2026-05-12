@@ -1,4 +1,4 @@
-(English)[/README.md]
+[English](README.md)
 安装说明
 直接安装：
 
