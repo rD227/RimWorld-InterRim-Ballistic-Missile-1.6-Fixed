@@ -1,4 +1,4 @@
-(简体中文)[SimplifiedChineseREADME.md]
+[简体中文](SimplifiedChineseREADME.md)
 
 How to use:
 ```powershell
