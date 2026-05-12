@@ -1,3 +1,5 @@
+(简体中文)[SimplifiedChineseREADME.md]
+
 How to use:
 ```powershell
 pip install Pillow
